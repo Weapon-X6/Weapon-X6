@@ -4,7 +4,7 @@
 -->
 <a href="https://github.com/kjmczk">
   <img height="233" align="top" src="https://github-readme-stats.vercel.app/api/?username=Weapon-X6&count_private=true&theme=tokyonight&show_icons=true&title_color=ffd700" />
-</a>&nbsp;
+</a>
 <a href="https://github.com/kjmczk">
   <img height="333" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weapon-X6&langs_count=6&theme=tokyonight&title_color=ffd700" />
 </a>
