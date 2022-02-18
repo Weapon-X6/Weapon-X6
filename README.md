@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- ### Hi there 👋 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Weapon-X6&count_private=false&theme=tokyonight&showicons=true&title_color=ffd700)]()
+   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Weapon-X6&langs_count=5&theme=tokyonight&title_color=ffd700)]()
+-->
+<a href="https://github.com/kjmczk">
+  <img height="233" align="top" src="https://github-readme-stats.vercel.app/api/?username=Weapon-X6&count_private=true&theme=tokyonight&show_icons=true&title_color=ffd700" />
+</a>&nbsp;
+<a href="https://github.com/kjmczk">
+  <img height="333" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weapon-X6&langs_count=6&theme=tokyonight&title_color=ffd700" />
+</a>
 
 <!--
 **Weapon-X6/Weapon-X6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
